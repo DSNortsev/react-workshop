@@ -6,6 +6,10 @@ dist-ssr
 
 # database
 db.json
+package-lock.json
 
 # Curriculum
 preferences.json
+
+#IDE
+.idea/
